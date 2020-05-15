@@ -17,5 +17,10 @@ If in `main.rs` you do `mod something;` then it'll look in the file `something/m
 
 Just like JS, if you `import { anything } from './something'`, it'll look in the file `something/index.js`
 
-Reference:
-[Stackoverflow](https://stackoverflow.com/questions/26435102/in-rust-what-is-the-purpose-of-a-mod-rs-file)
+---
+
+## Refs
+- [Stackoverflow](https://stackoverflow.com/questions/26435102/in-rust-what-is-the-purpose-of-a-mod-rs-file)
+
+## Tags
+- #rust
