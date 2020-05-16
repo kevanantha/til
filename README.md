@@ -17,4 +17,4 @@
 
 - [Decorator Factories](/typescript/decorator-factories.md)
 - [Decorator Execution](/typescript/decorator-execution.md)
-
+- [When Decorator Execute](/typescript/when-decorator-execute.md)
