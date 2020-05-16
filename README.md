@@ -16,3 +16,5 @@
 ### Typescript
 
 - [Decorator Factories](/typescript/decorator-factories.md)
+- [Decorator Execution](/typescript/decorator-execution.md)
+
