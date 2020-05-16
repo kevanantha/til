@@ -4,10 +4,15 @@
 
 ### Categories
 
+- [Javascript](#javascript)
 - [Rust](#rust)
 - [Typescript](#typescript)
 
 ---
+
+### Javascript
+
+- [What is the use of the Javascript `bind`?](/javascript/what-is-the-use-of-the-javascript-bind.md)
 
 ### Rust
 
@@ -17,4 +22,4 @@
 
 - [Decorator Factories](/typescript/decorator-factories.md)
 - [Decorator Execution](/typescript/decorator-execution.md)
-- [When Decorator Execute](/typescript/when-decorator-execute.md)
+- [When Decorator Execute?](/typescript/when-decorator-execute.md)
