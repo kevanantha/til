@@ -4,12 +4,17 @@
 
 ### Categories
 
+- [Design System](#design_system)
 - [Javascript](#javascript)
 - [React](#react)
 - [Rust](#rust)
 - [Typescript](#typescript)
 
 ---
+
+### Design System
+
+- [Intro to Design System](/design_system/intro-to-design-system.md)
 
 ### Javascript
 
@@ -28,4 +33,3 @@
 - [Decorator Factories](/typescript/decorator-factories.md)
 - [Decorator Execution](/typescript/decorator-execution.md)
 - [When Decorator Execute?](/typescript/when-decorator-execute.md)
-
